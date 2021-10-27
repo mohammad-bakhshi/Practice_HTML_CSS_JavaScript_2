@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(255, 228, 196, 0.246);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  display: inline;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.one{
+    background-color: blue;
+    width: 200px;
+    text-align: center;
+}
+
+.right{
+    background-color: purple;
+    width: 200px;
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    background-color: yellow;
+}

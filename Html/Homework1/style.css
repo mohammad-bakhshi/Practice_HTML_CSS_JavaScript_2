@@ -1,0 +1,42 @@
+div{
+    background-color: gray;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    color: white;
+    text-align: center;
+}
+
+#first{
+    float: left;
+}
+
+#second{
+    float: left;
+}
+
+#third{
+    float: left;
+}
+
+#fourth{
+    clear: left;
+}
+
+#fifth{
+    display: inline-block;
+}
+
+#sixth{
+    display: inline-block;
+}
+
+#seventh{
+    display: inline-block;
+}
+
+
+#eighth{
+    display: inline-block;
+}
+
